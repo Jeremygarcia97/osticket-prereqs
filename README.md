@@ -149,8 +149,54 @@ Inside IIs manager you will reload IIS again (open IIS, stop and start the serve
 ![image](https://github.com/user-attachments/assets/cb2dc565-a01b-4987-a4b6-85b698761a6f)
 
 
+<p>
+Go into IIS manager again, click the osTicket folder and then click PHP manager, click enable or disable extension. Look for the extensions called (php_imad.ll,php_intl.dll,php_opcache.dll). Go back to the osTicket that on web browser and refreash the page to check in extension were enabled.
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/c6610d7e-257a-4623-8580-97e6d368bda1)
+![image](https://github.com/user-attachments/assets/c31af7aa-77d9-4446-8aa4-8cff225a1620)
 
 
+<p>
+Open Windows Explorer and select C: > inetpub > wwwroot > osTicket > include. Then look for the file call ost-sampleconfig.php then rename it to ost-config.php.
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/a332d78e-3eb3-4892-9a7c-0c24e8664dc8)
+
+
+<p>
+Right-click ost-config.php. Open Properties > Security > Advanced > Permissions. Select Disable Inheritance > Remove all inherited permissions from this object. Select Disable Inheritance > Remove all inherited permissions from this object. Allow everyone full control (check all boxes) > Select apply > OK
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/b08fa77b-a2e5-427b-9509-5168501da9f0)
+
+<p>
+Go back to browser and start filling out information. System user and admin user email must be different it can not be the same. 
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/6e1277be-625b-4128-ac7d-b99dbd4d71b8)
+
+
+
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/316a8f02-467d-4995-a9bc-858bc333adac)
+
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
