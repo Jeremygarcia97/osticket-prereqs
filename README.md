@@ -183,22 +183,27 @@ Go back to browser and start filling out information. System user and admin user
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go back into osTicket Installation Files and start to download and install HeidiSQL.
 </p>
 <br />
 
 ![image](https://github.com/user-attachments/assets/316a8f02-467d-4995-a9bc-858bc333adac)
+![image](https://github.com/user-attachments/assets/fca0c473-6aeb-4a4e-bd5c-d6848e585368)
+
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open HeidiSQL Select "New" at the bottom-left corner of the screen then enter the username and passwrod both of them should be "root" then click open.
+On the left side, right-click Unnamed > select Create New > Database, Name it “osTicket” and select OK
+
 </p>
 <br />
+<p>
+  
+![image](https://github.com/user-attachments/assets/05e8236a-eb85-4480-876e-b85ee4453c3a)
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go back into the osTicket browser and start filling out the rest of the fields.
+  MySQL Database: osTicket ,MySQL Username: root ,MySQL Password: root. Finally click install.
 </p>
 <br />
 
